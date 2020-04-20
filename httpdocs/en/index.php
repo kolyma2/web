@@ -209,7 +209,7 @@
             Instagram: <a href="https://www.instagram.com/amras_puk" target="_blank">@amras_puk</a><br />
             <br />
             <br />
-            <a href="/en/imprint" style="font-size:16px;">Impressum</a></p>
+            <a href="/en/imprint" style="font-size:16px;">Imprint</a></p>
     </div>
     <!-- Start of kolyma2 Zendesk Widget script -->
     <script id="ze-snippet"
