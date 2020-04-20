@@ -115,7 +115,7 @@
         </strong></span></address>
     
 
-        <p><a href="https://kolyma2.coopcycle.org"><strong><span style="color:#ff0000;">C</span><span style="color:#ff8c00;"> </span><span
+        <p><a href="https://kolyma2.coopcycle.org/en/"><strong><span style="color:#ff0000;">C</span><span style="color:#ff8c00;"> </span><span
                     style="color:#ffffff;">O </span><span style="color:#ff0000;">O<span style="color:#ff8c00;">
                     </span></span><span style="color:#ffffff;">P</span><span style="color:#ff8c00;"> </span><span
                     style="color:#ff0000;">C</span><span style="color:#ff8c00;"> </span><span
