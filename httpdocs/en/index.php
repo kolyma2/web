@@ -200,16 +200,16 @@
             <br />
             <br />
             <br />
-            <a href="/de/faq" style="font-size:16px;">F.A.Q.</a></p>
+            <a href="/en/faq" style="font-size:16px;">F.A.Q.</a></p>
 
         <p><br />
-            <a href="/de/presse" style="font-size:16px;">Presseartikel &uuml;ber Kolyma2</a><br />
+            <a href="/en/press" style="font-size:16px;">Press articles about Kolyma2</a><br />
             Twitter: <a href="https://twitter.com/2kolyma" target="_blank">@2kolyma</a><br />
             Facebook: <a href="https://www.facebook.com/kolyma2" target="_blank">@kolyma2</a><br />
             Instagram: <a href="https://www.instagram.com/amras_puk" target="_blank">@amras_puk</a><br />
             <br />
             <br />
-            <a href="/de/impressum" style="font-size:16px;">Impressum</a></p>
+            <a href="/en/imprint" style="font-size:16px;">Impressum</a></p>
     </div>
     <!-- Start of kolyma2 Zendesk Widget script -->
     <script id="ze-snippet"
