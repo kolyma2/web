@@ -67,54 +67,71 @@
 
     <div class="bodytext">
         <p style="font-size: 24px;">Pop-Up! Lokal! Kollektiv!</p>
-        &nbsp;
+        <br>
 
         <p><strong>
-                <font color="#ff8c00">X.</font>&nbsp;<span style="color:#00ffff;">O</span><span style="color:#a52a2a;">
-                </span><span style="color:#dda0dd;">P</span><span style="color:#a52a2a;"> </span><span
-                    style="color:#ffff00;">E</span><span style="color:#a52a2a;"> </span><span
-                    style="color:#ffa500;">N</span>&nbsp; <span style="color:#00ffff;">B</span><span
-                    style="color:#ff8c00;">&nbsp;</span><span style="color:#ffff00;">E</span><span
-                    style="color:#ff8c00;">&nbsp;</span><span style="color:#ee82ee;">T</span><span
-                    style="color:#ff8c00;">&nbsp;A</span>&nbsp;&nbsp;
-            </strong><strong><span style="color:#00ffff;">W</span> <span style="color:#ffff00;">E</span> <span
-                    style="color:#ffff00;">E</span> <span style="color:#dda0dd;">K</span> <span
-                    style="color:#ffd700;">E</span> <span style="color:#ffff00;">N</span> <span
-                    style="color:#ffa500;">D</span></strong><strong>&nbsp;</strong>&nbsp;</p>
-
-        <p>&nbsp;</p>
-
-        <p><strong><span style="color:#fff0f5;">E</span> <span style="color:#faebd7;">V</span> <span
-                    style="color:#ffffe0;">E</span> <span style="color:#f0fff0;">R</span> <span
-                    style="color:#f0ffff;">Y</span> <span style="color:#ee82ee;">D</span> <span
-                    style="color:#dda0dd;">A</span> <span style="color:#ffccff;">Y</span></strong></p>
+                <span style="color:#ff8c00;">X.</span>&nbsp;
+                <span style="color:#00ffff;">O</span>
+                <span style="color:#dda0dd;">P</span>
+                <span style="color:#ffff00;">E</span>
+                <span style="color:#ffa500;">N</span>&nbsp;
+                <span style="color:#00ffff;">B</span>
+                <span style="color:#ffff00;">E</span>
+                <span style="color:#ee82ee;">T</span>
+                <span style="color:#ff8c00;">A</span>&nbsp;
+                <span style="color:#00ffff;">E</span> 
+                <span style="color:#ffff00;">V</span>
+                <span style="color:#ffff00;">E</span>
+                <span style="color:#dda0dd;">R</span> 
+                <span style="color:#ffd700;">Y</span>
+                <span style="color:#ffff00;">D</span>
+                <span style="color:#ffa500;">A</span>
+                <span style="color:#ffd700;">Y</span>
+            </strong>
+        </p>
 
         <p><strong>
-        <font color="#DDA0DD">t</font>i<font color="#ffff00">ll</font><font color="#ff0000"> 9 </font><font color="#ff8c00">pm</font>
-        </strong><p>
-        <br/>
+                <font color="#dda0dd">a</font>
+                <span style="color:#ffff00;">l</span>
+                <span style="color:#ffa500;">l</span>&nbsp;
+                <span style="color:#ffff00;">d</span>
+                <span style="color:#ee82ee;">a</span>
+                <span style="color:#ffa500;">y</span>&nbsp;
+                <span style="color:#dda0dd;">l</span>
+                <span style="color:#ffff00;">o</span>
+                <span style="color:#ff8c00;">n</span>
+                <span style="color:#ffa500;">g</span>
+            </strong>
+        </p>
+        <br>
+        <br>
 
-        <address><span style="font-size:12px;"><strong>
-            <span style="color:#fff0f5;">O</span>
-            <span style="color:#f0fff0;">R</span>
-            <span style="color:#d3d3d3;">D</span>
-            <span style="color:#a9a9a9;">E</span>
-            <span style="color:#a9a9a9;">R</span>&nbsp; 
-            <span style="color:#fff0f5;">W</span>
-            <span style="color:#f0fff0;">I</span>
-            <span style="color:#d3d3d3;">T</span>
-            <span style="color:#a9a9a9;">H</span>&nbsp; 
-            <span style="color:#a9a9a9;">T</span>
-            <span style="color:#808080;">H</span>
-            <span style="color:#ffffff;">E&nbsp;</span>
-            <span style="color:#d3d3d3;">N</span>
-            <span style="color:#ff0000;"> </span>
-            <span style="color:#ffffe0;">E</span>
-            <span style="color:#ff0000;"> </span>
-            <span style="color:#fff0f5;">W&nbsp;</span>
-        </strong></span></address>
+        <address>
+            <span style="font-size:12px;">
+                <strong>
+                    <span style="color:#fff0f5;">O</span>
+                    <span style="color:#f0fff0;">R</span>
+                    <span style="color:#d3d3d3;">D</span>
+                    <span style="color:#a9a9a9;">E</span>
+                    <span style="color:#a9a9a9;">R</span>&nbsp; 
+                    <span style="color:#fff0f5;">W</span>
+                    <span style="color:#f0fff0;">I</span>
+                    <span style="color:#d3d3d3;">T</span>
+                    <span style="color:#a9a9a9;">H</span>&nbsp; 
+                    <span style="color:#a9a9a9;">T</span>
+                    <span style="color:#808080;">H</span>
+                    <span style="color:#ffffff;">E</span>&nbsp;
+                    <span style="color:#d3d3d3;">N</span>
+                    <span style="color:#ffffe0;">E</span>
+                    <span style="color:#fff0f5;">W</span>&nbsp;
+                </strong>
+            </span>
+        </address>
     
 
+        <!--
+        link to web app
+        -->
         <p><a href="https://kolyma2.coopcycle.org"><strong><span style="color:#ff0000;">C</span><span style="color:#ff8c00;"> </span><span
                     style="color:#ffffff;">O </span><span style="color:#ff0000;">O<span style="color:#ff8c00;">
                     </span></span><span style="color:#ffffff;">P</span><span style="color:#ff8c00;"> </span><span
@@ -127,6 +144,7 @@
                     style="color:#FF8C00;">!</span></strong>
                 </a>
         </p>
+        <br>
 
         <h2 style="font-style:italic;"><span style="font-size:12px;"><span style="color:#D3D3D3;"><span
                         style="background-color:#000000;">D</span></span><span style="color:#E6E6FA;"><span
@@ -142,50 +160,49 @@
                 </span><span style="color:#808080;">O </span><span style="color:#696969;">M</span><span
                     style="color:#E6E6FA;">&nbsp;</span></span></h2>
 
-        <p><span style="color:#FFF0F5;">M</span><span style="color:#FAEBD7;">O</span><span
-                style="color:#FFFFE0;">K</span><span style="color:#F0FFF0;">S</span><span
-                style="color:#F0F8FF;">A</span>&nbsp;<span style="color:#D3D3D3;">*</span><span
-                style="color:#FFFFE0;">&nbsp;</span><span style="color:#FFF0F5;">C</span><span
-                style="color:#FAEBD7;">O</span><span style="color:#FFFFE0;">M</span>&nbsp;<span
-                style="color:#F0FFF0;">A</span>&nbsp;<span style="color:#FFFFE0;">*&nbsp;</span><span
-                style="color:#E6E6FA;">V</span><span style="color:#DDA0DD;">i</span><span
-                style="color:#ADD8E6;">l</span><span style="color:#F0FFF0;"><span
-                    style="background-color:#000000;">l</span></span><span style="color:#FFFFE0;">a</span> <span
-                style="color:#E6E6FA;">d</span><span style="color:#D3D3D3;">i</span>&nbsp;<span
-                style="color:#DDA0DD;">W</span><span style="color:#E6E6FA;">o</span><span
-                style="color:#D3D3D3;">w</span></p>
+        <!--
+        restos
+        -->
 
-        <p>&nbsp;<span style="color:#D3D3D3;">B</span><span style="color:#E6E6FA;">R</span><span
-                style="color:#D3D3D3;">G</span><span style="color:#F0F8FF;">R</span><span
-                style="color:#F0FFF0;">S</span>&nbsp;<span style="color:#FFFFE0;">B</span><span
-                style="color:#F0FFF0;">R</span><span style="color:#FAEBD7;">G</span><span
-                style="color:#FFF0F5;">R</span><span style="color:#F0F8FF;">S</span> * <span
-                style="color:#FFF0F5;">M</span><span style="color:#DDA0DD;">E</span><span
-                style="color:#F0FFF0;">R</span><span style="color:#A9A9A9;">C</span><span
-                style="color:#FFF0F5;">O</span><span style="color:#F0FFFF;">S</span><span style="color:#FFFFE0;">Y *
-                ST</span><span style="color:#E6E6FA;">Y</span><span style="color:#D3D3D3;">L</span><span
-                style="color:#FFF0F5;">E</span><span style="color:#FFFFE0;">&nbsp;</span><span
-                style="color:#FAEBD7;">S</span><span style="color:#FFFFE0;">T</span><span
-                style="color:#FFF0F5;">A</span><span style="color:#E6E6FA;">L</span><span
-                style="color:#F0FFF0;">L</span><span style="color:#E6E6FA;">O</span><span
-                style="color:#FAEBD7;">N</span><span style="color:#FFF0F5;">E</span><br />
-            <br />
-            <span style="color:#FFFFE0;">M</span><span style="color:#ADD8E6;">I</span><span
-                style="color:#FFFFE0;">N</span><span style="color:#FFA07A;">I</span><span style="color:#FFF0F5;">
-            </span><span style="color:#FFF0F5;">C</span><span style="color:#E6E6FA;">U</span><span
-                style="color:#DDA0DD;">L</span><span style="color:#F0FFF0;">T<span style="color:#FFF0F5;">
-                </span>B</span><span style="color:#E6E6FA;">I</span><span style="color:#FFF0F5;">S</span><span
-                style="color:#A9A9A9;">T</span><span style="color:#D3D3D3;">R</span><span
-                style="color:#FFF0F5;">O</span> * 
-            <span style="color:#ADD8E6;">P</span><span style="color:#FFFFE0;">IRI'S</span> 
-            <span style="color:#FFFFE0;">B</span><span style="color:#FFA07A;">U</span><span>RGER</span> *
-            <br />
-            <p>
-                <font color="#DDA0DD">G</font><font color="#D3D3D3">oldies</font> *
-                <font color="#FFFFE0">Holy</font> <font color="#D3D3D3">Fla</font><font color="#DDA0DD">t</font>
-            </p>
+        <p>
+            <span style="color:#FFF0F5;">M</span><span style="color:#FAEBD7;">O</span><span style="color:#FFFFE0;">K</span><span style="color:#F0FFF0;">S</span><span style="color:#F0F8FF;">A</span>
+            <span style="color:#D3D3D3;">*</span>
+
+            <span style="color:#FFF0F5;">C</span><span style="color:#FAEBD7;">O</span><span style="color:#FFFFE0;">M</span>&nbsp;<span style="color:#F0FFF0;">A</span>
+            <span style="color:#FFFFE0;">*</span>
+
+            <span style="color:#E6E6FA;">V</span><span style="color:#DDA0DD;">i</span><span style="color:#ADD8E6;">l</span><span style="color:#F0FFF0;"><span style="background-color:#000000;">l</span></span><span style="color:#FFFFE0;">a</span> <span
+  style="color:#E6E6FA;">d</span><span style="color:#D3D3D3;">i</span>&nbsp;<span style="color:#DDA0DD;">W</span><span style="color:#E6E6FA;">o</span><span style="color:#D3D3D3;">w</span>
+        </p>
+
+        <p>
+            <span style="color:#D3D3D3;">B</span><span style="color:#E6E6FA;">R</span><span style="color:#D3D3D3;">G</span><span style="color:#F0F8FF;">R</span><span style="color:#F0FFF0;">S</span>&nbsp;<span style="color:#FFFFE0;">B</span><span style="color:#F0FFF0;">R</span><span style="color:#FAEBD7;">G</span><span style="color:#FFF0F5;">R</span><span style="color:#F0F8FF;">S</span>
+            <span style="color:#FFFFE0;">*</span>
+            
+            <span style="color:#FFF0F5;">M</span><span style="color:#DDA0DD;">E</span><span style="color:#F0FFF0;">R</span><span style="color:#A9A9A9;">C</span><span style="color:#FFF0F5;">O</span><span style="color:#F0FFFF;">S</span><span style="color:#FFFFE0;">Y</span>
+            <span style="color:#FFFFE0;">*</span>
+           
+            <span>ST</span><span style="color:#E6E6FA;">Y</span><span style="color:#D3D3D3;">L</span><span style="color:#FFF0F5;">E</span><span style="color:#FFFFE0;">&nbsp;</span><span style="color:#FAEBD7;">S</span><span style="color:#FFFFE0;">T</span><span style="color:#FFF0F5;">A</span><span style="color:#E6E6FA;">L</span><span style="color:#F0FFF0;">L</span><span style="color:#E6E6FA;">O</span><span style="color:#FAEBD7;">N</span><span style="color:#FFF0F5;">E</span><br />
+        </p>
+
+        <p>
+            <span style="color:#ADD8E6;">P</span><span style="color:#FFFFE0;">IRI'S</span> <span style="color:#FFFFE0;">B</span><span style="color:#FFA07A;">U</span><span>RGER</span> *
+
+            <font color="#DDA0DD">G</font><font color="#D3D3D3">oldies</font> *
+            <font color="#FFFFE0">Holy</font> <font color="#D3D3D3">Fla</font><font color="#DDA0DD">t</font>
+        </p>
+
+        <p>
+            <span style="color:#ADD8E6;">BU</span><span style="color:#FFFFE0;">R</span><span style="color:#ADD8E6;">G</span><span>ER</span><span style="color:#FFFFE0;">M</span><span style="color:#FFA07A;">E</span><span>ISTER</span>
+            <span style="color:#FFFFE0;">*</span>
+
+            <span style="color:#FFF0F5;">C</span><span style="color:#FAEBD7;">h</span><span style="color:#FFFFE0;">ez </span><span style="color:#F0FFF0;">D</span><span style="color:#F0F8FF;">ang</span>
+            <span style="color:#FFFFE0;">*</span>
+
+            <span style="color:#ADD8E6;">MI</span><span style="color:#FFFFE0;">B</span><span style="color:#FFFFE0;">A</span><span style="color:#FFA07A;">P</span>
+        </p>   
         <br />
-
+        
         <p>***</p>
 
         <p>+49 175 992 01 41<br />
