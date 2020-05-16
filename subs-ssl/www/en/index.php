@@ -85,7 +85,7 @@
                 <span style="color:#dda0dd;">K</span> 
             </strong>
         </p>
-        </br>
+        <br/>
 
         <p>
             <strong>
