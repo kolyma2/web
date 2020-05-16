@@ -148,7 +148,7 @@
             </strong>
             </a>
         </p>
-        </br>
+        <br/>
 
 
         <h2 style="font-style:italic;"><span style="font-size:12px;"><span style="color:#D3D3D3;"><span
