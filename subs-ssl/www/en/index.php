@@ -350,7 +350,7 @@
 
         <p>***</p>
 
-        <p>+49 175 992 01 41<br />
+        <p>+49 176 346 829 75<br />  <!-- old number <p>+49 175 992 01 41<br /> -->
             <br />
             <span style="color:#ffff00;"><span style="background-color:#ee82ee;">SMS</span></span> <span
                 style="background-color:#ee82ee;">Signal</span>&nbsp;<a href="https://t.me/Kolyma2"><span
