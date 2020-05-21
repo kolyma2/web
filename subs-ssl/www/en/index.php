@@ -295,7 +295,7 @@
         <p>
             <!--Futura-->
             <a  style="color:#FFF0F5;" href="https://kolyma2.coopcycle.org/en/restaurant/76-futura">
-                <span style="color:#ADD8E6;">FUT</span><span style="color:#FFA07A;">U</span><span style="color:#ADD8E6;">RA </span></a>
+                <span style="color:#ADD8E6;">FUT</span><span style="color:#FFA07A;">U</span><span style="color:#ADD8E6;">RA</span></a>
 
             *
 
@@ -345,6 +345,16 @@
                 <span style="color:#ADD8E6;">MI</span><span style="color:#FFFFE0;">B</span><span style="color:#FFFFE0;">A</span><span style="color:#FFA07A;">P</span></a>
          </p>  
 
+         <p> <!--Barettino-->
+            <a  style="color:#FFF0F5;" href="https://kolyma2.coopcycle.org/de/restaurant/83-barettino">
+                <span style="color:#D3D3D3;">Ba</span><span style="color:#E6E6FA;">re</span><span style="color:#D3D3D3;">tti</span><span style="color:#F0F8FF;">n</span><span style="color:#F0FFF0;">o</span></a>
+            *
+            
+            <!--La Lucha-->
+            <a  style="color:#FFF0F5;" href="https://kolyma2.coopcycle.org/de/restaurant/86-la-lucha">
+                <span style="color:#FFF0F5;">La </span><span style="color:#DDA0DD;"> L</span><span style="color:#F0FFF0;">u</span><span style="color:#A9A9A9;">ch</span><span style="color:#FFF0F5;">a</span></a>
+
+        </p>
 
         <br />
 
@@ -368,7 +378,8 @@
             <a href="/en/press" style="font-size:16px;">Press articles about Kolyma2</a><br />
             Twitter: <a href="https://twitter.com/2kolyma" target="_blank">@2kolyma</a><br />
             Facebook: <a href="https://www.facebook.com/kolyma2" target="_blank">@kolyma2</a><br />
-            Instagram: <a href="https://www.instagram.com/amras_puk" target="_blank">@amras_puk</a><br />
+            Instagram: <a href="https://www.instagram.com/kolyma2u/" target="_blank">kolyma2u</a><br />
+            LinkedIn: <a href="https://www.linkedin.com/company/kolyma2" target="_blank">kolyma2</a><br />
             <br />
             <br />
             <a href="/en/imprint" style="font-size:16px;">Imprint</a></p>
