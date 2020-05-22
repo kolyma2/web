@@ -8,9 +8,16 @@ on:
 
 jobs:
   build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Run cmd
-      run: echo Hello, world!
+    - name: Deploy pages
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+      run: |
+        ls -al
 
