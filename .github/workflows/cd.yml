@@ -8,15 +8,15 @@ on:
 
 jobs:
   build:
-    name: Login
+    name: CD
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Connect and deploy
-      uses: appleboy/ssh-action@master
-      with:
+      env:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: ~/deployment.sh
+    - run: |
+        ~/deployment.sh
