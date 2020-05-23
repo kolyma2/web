@@ -19,4 +19,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
       run: |
-        ~/deployment.sh
+        ./deployment.sh
