@@ -8,15 +8,17 @@ on:
 
 jobs:
   build:
-    name: Build
+    name: Login
     runs-on: ubuntu-latest
     steps:
-    - name: Deploy pages
+    - name: Connect
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
+
+    - name: Deploy    
       run: |
         ls -al
