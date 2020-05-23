@@ -11,14 +11,12 @@ jobs:
     name: Login
     runs-on: ubuntu-latest
     steps:
-    - name: Connect
+    - uses: actions/checkout@v2
+    - name: Connect and deploy
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-
-    - name: Deploy    
-      run: |
-        ls -al
+        script: ~/deployment.sh
