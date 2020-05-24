@@ -14,9 +14,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Connect and deploy
       env:
-        host: ${{ secrets.HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
-        port: ${{ secrets.PORT }}
+        HOST: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
       run: |
-        ./deployment.sh
+        apt install sshpass
+        sshpass -p $PASSWORD scp -r subs-ssl/www $USERNAME@$HOST:doms/kolyma2.de/subs-ssl
+        echo 'Done'
+
