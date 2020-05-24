@@ -1,0 +1,22 @@
+name: CD
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    name: CD
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Connect and deploy
+      env:
+        HOST: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+      run: |
+        sudo apt install sshpass
+        sshpass -p $PASSWORD scp -o 'StrictHostKeyChecking=no' -r subs-ssl/www $USERNAME@$HOST:doms/kolyma2.de/subs-ssl
+        echo 'Done'
+
