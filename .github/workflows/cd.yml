@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   pull_request:
-    branches: [ master ]
+    branches: [ master ] # TODO REMOVE
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
       run: |
-        apt install sshpass
+        sudo apt install sshpass
         sshpass -p $PASSWORD scp -r subs-ssl/www $USERNAME@$HOST:doms/kolyma2.de/subs-ssl
         echo 'Done'
 
