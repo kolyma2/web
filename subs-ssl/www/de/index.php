@@ -360,7 +360,7 @@
 
         <p>***</p>
 
-        <p>+49 1759 920 141<br /> 
+        <p>+49 175 992 01 41</p>
             <br />
             <span style="color:#ffff00;"><span style="background-color:#ee82ee;">SMS</span></span> <span
                 style="background-color:#ee82ee;">Signal</span>&nbsp;<a href="https://t.me/Kolyma2"><span
