@@ -34,12 +34,12 @@ ol ul {
 }
 iframe {
     width: 100%;
-    frameborder:0;
+    border-width: 0px;
 }
 ul.dashed {
 	  list-style-type: none;
 	}
-big {
+#biggi {
 	font-size: 26px;
 	letter-spacing: 4px;
 }
