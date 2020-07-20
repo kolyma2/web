@@ -23,8 +23,8 @@ b{
     color: #ff4da0;
 }
 ol {
-    margin-left: 80px;
-    margin-right: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
     float: left;
 	width: auto;
 }
@@ -46,4 +46,15 @@ ul.dashed {
 #spacing{
     letter-spacing: 15px;
 	word-spacing: 15px;
+}
+#conditions{
+    background-color: black;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: medium;
+    line-height: 16px;
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 1.5;
 }
