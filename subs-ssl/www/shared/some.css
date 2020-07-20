@@ -1,0 +1,60 @@
+h1 {
+    font-size: 35px;
+}
+.header h1 {
+		letter-spacing: 15px;
+		word-spacing: 15px;
+	}
+h3 {
+    color: white;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: large;
+    line-height: 26px;
+    text-align: center;
+}
+a{
+    color: #00ffea;
+}
+b{
+    color: #ff4da0;
+}
+ol {
+    margin-left: 10%;
+    margin-right: 10%;
+    float: left;
+	width: auto;
+}
+ol ul {
+	padding-left: 0px;
+	padding-right: 10px;
+}
+iframe {
+    width: 100%;
+    border-width: 0px;
+}
+ul.dashed {
+	  list-style-type: none;
+	}
+#biggi {
+	font-size: 26px;
+	letter-spacing: 4px;
+}
+#spacing{
+    letter-spacing: 15px;
+	word-spacing: 15px;
+}
+#conditions{
+    background-color: black;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: medium;
+    line-height: 16px;
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 1.5;
+}
